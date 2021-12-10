@@ -16,16 +16,6 @@ CACH token https://www.cachedefi.com
 
 ![Token_Distribution@2x](https://user-images.githubusercontent.com/87903773/145623174-d9dddba9-3951-452f-9197-82f9ae02cc23.png)
 
-<br>
-
-# Cache DEFI Token Pricing 
-
-coming soon
-<br>
-
-# Cache DEFI Earning Opportunities 
-
-![Untitled-2-01](https://user-images.githubusercontent.com/29208274/122577309-a292e980-d020-11eb-9556-1f4a299b0858.jpg)
 
 <br>
 

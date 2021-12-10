@@ -13,7 +13,8 @@ CACH token https://www.cachedefi.com
 
 # Supply to be released
 
-![CacheDEFI_ProjectedReleasedSupply](https://user-images.githubusercontent.com/29208274/122577021-50ea5f00-d020-11eb-918b-409163892db3.jpg)
+
+![Token_Distribution@2x](https://user-images.githubusercontent.com/87903773/145623174-d9dddba9-3951-452f-9197-82f9ae02cc23.png)
 
 <br>
 
@@ -28,17 +29,18 @@ coming soon
 
 <br>
 
-# Road Map (Tentative)
+# Road Map 
 
-#Being updated
-
-<br>
-
-# Coming Soon Airdrops 
-
-![30BillionAirdrop3](https://user-images.githubusercontent.com/29208274/122578671-18e41b80-d022-11eb-8364-b775559dbee2.png)
+![CACH_Token_TimeLine_Rev1 0](https://user-images.githubusercontent.com/87903773/145623122-0dc37de5-8fe5-40d6-8bef-946d2ddd4628.png)
 
 <br>
 
-![CacheDefiPileOfCoins](https://user-images.githubusercontent.com/29208274/123311129-cc528180-d4f4-11eb-8fb7-0c3d5680991e.jpg)
+# White Paper 
+[CacheDEFIProject_WhitePaper_Nov2021_Rev1.0.pdf](https://github.com/ShaneCalderDuckyA50/CacheDEFI/files/7694760/CacheDEFIProject_WhitePaper_Nov2021_Rev1.0.pdf)
 
+
+<br>
+
+# Tokenomics
+
+[Cache_DEFI_ProjectTokenomics_Rev1.0.pdf](https://github.com/ShaneCalderDuckyA50/CacheDEFI/files/7694763/Cache_DEFI_ProjectTokenomics_Rev1.0.pdf)
